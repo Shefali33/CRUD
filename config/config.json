@@ -1,0 +1,4 @@
+﻿{
+  "connectionString": "mongodb://localhost/assignment_test",
+  "secret": "canbeanystringtoverifyjwttoken"
+}
